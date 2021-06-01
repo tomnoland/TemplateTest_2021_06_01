@@ -1,12 +1,12 @@
-# New-Project-Template
+# TemplateTest_2021_06_01
 
 Template for new projects
 
 ---
 
-hub delete -y tomnoland/RepoName
+hub delete -y tomnoland/TemplateTest_2021_06_01
 
-git clone https://github.com/tomnoland/New-Project-Template
+git clone https://github.com/tomnoland/TemplateTest_2021_06_01
 
 ---
 
